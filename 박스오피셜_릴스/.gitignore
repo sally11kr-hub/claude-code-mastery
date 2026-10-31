@@ -1,0 +1,6 @@
+# media, fonts and rendered reels stay local; only the template script is tracked
+*
+!.gitignore
+!.work/
+.work/*
+!.work/make_reel.py
